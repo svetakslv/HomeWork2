@@ -7,7 +7,7 @@ public class Main {
         long dolphin = 8L;
         float chocolateWeight = (float) 127.9765;
         double aPieceOfCake = 6.7;
-        char bar = 56;
+        char bar = 35;
         boolean d = 23 > 12;
         System.out.println (cat);
         System.out.println (penguin);
